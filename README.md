@@ -1,2 +1,2 @@
 # Arduino
-Repository for share some examples about kinematics processing in Matlab tool
+Repository for share some examples about Arduino implementations
